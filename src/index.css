@@ -1,0 +1,82 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* For the typing dots animation */
+/* For the typing dots animation */
+.typing-dots {
+    display: inline-block;
+    width: 8px;
+    height: 8px;
+    border-radius: 50%;
+    background-color: #f9f9f9;
+    animation: typing 1.5s infinite;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    -o-border-radius: 50%;
+}
+
+.typing-dots:nth-child(2) {
+    animation-delay: 0.3s;
+}
+
+.typing-dots:nth-child(3) {
+    animation-delay: 0.6s;
+}
+
+@keyframes typing {
+
+    0%,
+    60%,
+    100% {
+        transform: translateY(0);
+    }
+
+    30% {
+        transform: translateY(-10px);
+    }
+}
+
+/* General message styling */
+.message {
+    max-width: 75%;
+    word-wrap: break-word;
+}
+
+/* User message styling */
+.user-message {
+    background-color: #e3f2fd;
+    align-self: flex-end;
+    max-width: 75%;
+    /* Adjust the max-width as needed */
+    margin-left: auto;
+    /* Push the message to the right */
+    margin-bottom: 10px;
+    /* Add some spacing between messages */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* AI message styling */
+.ai-message {
+    background-color: #e1c2f1;
+    align-self: flex-start;
+    max-width: 75%;
+    /* Adjust the max-width as needed */
+    margin-right: auto;
+    /* Push the message to the left */
+    margin-bottom: 10px;
+    /* Add some spacing between messages */
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* Chat box styling */
+.chat-box {
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.15);
+}
