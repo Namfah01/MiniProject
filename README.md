@@ -4,7 +4,7 @@ Develop an interactive AI chatbot using the [Gemini API](https://ai.google.dev) 
 
 integrated into a modern [React](https://react.dev) application with [Tailwind CSS](https://tailwindcss.com) for UI styling.
 
-Implemented [Chatbot](https://mini-project-gilt-ten.vercel.app/) interface components with dynamic message handling and user interaction.
+Implemented [Chatbot](https://mini-project-gilt-ten.vercel.app) interface components with dynamic message handling and user interaction.
 
 Created a functional AI chatbot that demonstrates technical competence in frontend development and API integration.
 
