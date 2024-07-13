@@ -17,9 +17,8 @@ website across different devices and browsers.
 # Homepage
 
 ![Homepage 1](https://github.com/user-attachments/assets/d2b0aa9b-b339-4619-8523-0b414cf3c532)
-![Homepage 2](https://github.com/user-attachments/assets/daacb384-9266-4806-8b37-b948ed33d752)
-![Homepage 3](https://github.com/user-attachments/assets/78a51091-cc90-4ff8-b373-f2d615d81586)
-![Homepage 4](https://github.com/user-attachments/assets/daacb384-9266-4806-8b37-b948ed33d752)
+![Homepage 2](https://github.com/user-attachments/assets/78a51091-cc90-4ff8-b373-f2d615d81586)
+![Homepage 3](https://github.com/user-attachments/assets/daacb384-9266-4806-8b37-b948ed33d752)
 
 
 # Product List
